@@ -1,4 +1,4 @@
-# rfkjr-slx.sims
+# autonomous-eco-vehicle-model-slx.sims
 
 #### Includes:
 - Car following model .slx file
